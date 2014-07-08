@@ -1,3 +1,4 @@
+<cfscript>
 component
   output="false"
   hint="I provide extensions to <cfdbinfo>-like operations for SQL Server"
@@ -69,3 +70,4 @@ component
     }
 
 }
+</cfscript>
